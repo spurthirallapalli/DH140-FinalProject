@@ -14,7 +14,7 @@ For our project, we plan on having line charts charting a songs popularity by co
 
 We also plan on seeing if there are geographical relations between songs popularity in certain countries, so something such as a map with the song's number of streams overlaid over the country, and each chart representing a different period in time would be interesting too. 
 
-We also plan on doing text analysis on the lyrics versus the popularity in a certain country, so we may have frequency charts of words found in the song, as well as potentially some graphic showing sentiment analysis for the song lyric text. 
+Lastly, we plan on doing text analysis on the lyrics versus the popularity in a certain country, so we may have frequency charts of words found in the song, as well as potentially some graphic showing sentiment analysis for the song lyric text. 
 
 ## Conclusion
-
+Overall, by utilizing the data sources provided by Spotify Charts and Genius to create easy to read visualizations, we hope to find patterns in song popularity across different countries and look into whether certain lyrics are correlated with popularity within the top few songs. We also hope to find out how streaming of certain songs compare across different countries and whether or not the same songs trend at the same rate. 
