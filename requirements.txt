@@ -1,7 +1,5 @@
 pandas
 geopandas
-glob
-requests
 datetime
 time
 numpy
