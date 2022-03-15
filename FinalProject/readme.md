@@ -1,5 +1,5 @@
 ## Research question
-Our research question is “How does a song’s popularity spread over countries over time, and how much of that is attributed to the lyrics / word patterns in that song?”
+Our research question is “How does a song's popularity spread over time depending on the origin country of the artist, and how much of that is attributed to the lyrics / word patterns in that song?”
 
 ## Why it is important to you, why it matters to others, and what is at stake
 Music is something that everyone connects to, and our group wants to find a way to measure how and why music is spread across the world. It’s a way for musicians to figure out which kind of music allows them to connect with different audiences and cross cultural and linguistic barriers. It’s also a way for us as listeners to help determine what connects us to certain kinds of music, what word frequencies and thematic patterns matter most to us, and what cultural practices and norms cause certain groups to listen (or not to listen) to certain types of music. Essentially, it’s a way to determine what connects us all!
