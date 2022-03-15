@@ -1,3 +1,5 @@
+Binder Link: https://mybinder.org/v2/gh/spurthirallapalli/DH140-FinalProject/HEAD
+
 ## Research question
 Our research question is “How does a song's popularity spread over time depending on the origin country of the artist, and how much of that is attributed to the lyrics / word patterns in that song?”
 
