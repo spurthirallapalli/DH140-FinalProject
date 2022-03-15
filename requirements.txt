@@ -3,3 +3,4 @@ geopandas
 datetime
 numpy
 matplotlib
+nltk
